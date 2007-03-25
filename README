@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1837
+
+These two scripts provide syntax highlighting and automatic code indentation for BlitzBasic code. Supported are the Blitz2D and Blitz3D commandsets.
+
+Please note that there's one little bug: I couldn't determine which regular expression to use for if statements to indent correctly. Therefore you always have to write a 'Then' at the end of an if statement - which looks better anyway, in my opinion. ;-) Whatever, if you know how to change the regex to support both versions (with and without 'Then'), feel free to contact me.
